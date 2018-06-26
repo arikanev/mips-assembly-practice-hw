@@ -1,6 +1,6 @@
 # Homework #2
 # Ariel Kanevsky
-# 110486172
+# XXXXXXXXX
 
 .text
 .globl start
