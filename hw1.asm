@@ -1,6 +1,6 @@
 # Homework 1#
 # name: Ariel Kanevsky#
-# sbuid: 110486172 #
+# sbuid: XXXXXXXXX #
 
 .text
 .globl main
